@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cihat Demirkol</h1>
-<h3 align="center">I am a game designer and game developer. I live in Turkey.</h3>
+<h3 align="center">I am a Software developer. I live in Turkey.</h3>
 
 - 🔭 I am currently working on my own game projects. **Am I Slime?**
 
